@@ -47,6 +47,9 @@ a:hover{
 #navbar a{
   padding: 20px;
 }
+.links *{
+  font-weight: 600;
+}
 
 #section1{
   padding-top: 80px;
@@ -77,6 +80,7 @@ a:hover{
 .title2{
   font-size: 4em;
   font-weight: bolder;
+  letter-spacing: -0.04em;
 }
 
 #section1 .button{
