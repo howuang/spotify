@@ -40,12 +40,12 @@ a{
   text-decoration: none;
 }
 
-#navbar a{
-  padding: 20px;
+a:hover{
+  color: #1ed760;
 }
 
-#navbar a:hover{
-  color: #1ed760;
+#navbar a{
+  padding: 20px;
 }
 
 #section1{
